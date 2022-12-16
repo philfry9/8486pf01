@@ -1,0 +1,13 @@
+{
+	"file": "https://www.dropbox.com/s/9n1mfi7ph5zeom3/%28Column_join_on_all%29CSV.csv?dl=0",
+	"name": "8486-01",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "Geneid", "index": 0, "name": "Name" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 12 }
+	]
+}
